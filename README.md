@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1500&pause=200&color=F72A90&width=435&lines=Hello!+This+is+Alma!+)](https://git.io/typing-svg)
 
 <h3>
-  About me:
+  👧🏻 About me:
 </h3>
 
 ---
@@ -19,7 +19,7 @@
 </p>
 
 
-<h3 align="left">Languages and libraries I use often: </h3>
+<h3 align="left"> 👩🏻‍💻 Languages and libraries I use often: </h3>
   
 ---
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -37,7 +37,7 @@
   
   ---
   
-  <h3 align="left">Connect with me: </h3>
+  <h3 align="left"> 🗣 Connect with me: </h3>
   
   <a  rel="noreferrer" valign="top" href="https://linkedin.com/in/almagashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="almagashi" height="30" width="30" /></a> 
 
