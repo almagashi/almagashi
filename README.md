@@ -8,7 +8,7 @@
 
 
 
-    🎓 BSc: Data Science and Statistics & Brain, Cognition and Behavior [@ Minerva University](https://www.minerva.edu/)
+    🎓 BSc Data Science and Statistics ** &** Brain, Cognition and Behavior [@ Minerva University](https://www.minerva.edu/)
     
     📈 I’m currently working as a Data Science Program Manager [@ Opti Career](https://www.opticareer.com/)
     
