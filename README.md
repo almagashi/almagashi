@@ -40,7 +40,3 @@
   
   
   <a  rel="noreferrer" valign="top" href="https://linkedin.com/in/almagashi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="almagashi" height="30" width="30" /></a> 
-
----
-
-![Alma's GitHub stats](https://github-readme-stats.vercel.app/api?username=almagashi&show_icons=true&theme=tokyonight&count_private=true&hide=issues,contribs) 
