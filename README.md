@@ -12,7 +12,7 @@
     
    📈 I’m currently working as a Data Science Program Manager [@ Elite Education](https://www.joinaptitude.com/](https://eliteprep.com/)) 
     
-   🧘🏻‍♀️ My hobbies are yoga, meditation and mental health advocacy.
+   🧩 My hobbies are puzzles and reading.
     
    🧠 Fun fact: I enjoy thinking of brain-related hypotheses and the best ways to test them.
 
