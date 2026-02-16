@@ -10,9 +10,9 @@
 
    🎓 BSc Data Science and Statistics & Brain, Cognition and Behavior [@ Minerva University](https://www.minerva.edu/)
     
-   📈 I’m currently working as a Data Science Program Manager [@ Elite Education](https://www.joinaptitude.com/](https://eliteprep.com/)) 
+   📈 I’m currently working as a Data Science Product Manager [@ Elite Education](https://www.joinaptitude.com/](https://eliteprep.com/)) 
     
-   🧩 My hobbies are puzzles and reading.
+   🧩 My hobbies are board games and reading.
     
    🧠 Fun fact: I enjoy thinking of brain-related hypotheses and the best ways to test them.
 
