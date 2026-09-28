@@ -8,13 +8,12 @@
 
 
 
-   🎓 BSc Data Science and Statistics & Brain, Cognition and Behavior [@ Minerva University](https://www.minerva.edu/)
+   🎓 Currently doing Master's at [@ Harvard University](https://harvard.edu) in Learning Design, Innovation and Technology;  BSc Data Science and Statistics & Brain, Cognition and Behavior [@ Minerva University](https://www.minerva.edu/)
     
-   📈 I’m currently working as a Data Science Product Manager [@ Elite Education](https://www.joinaptitude.com/](https://eliteprep.com/)) 
     
    🧩 My hobbies are board games and reading.
     
-   🧠 Fun fact: I enjoy thinking of brain-related hypotheses and the best ways to test them.
+   🧠 Fun fact: I enjoy thinking of learning techniques and their nuanced applications.
 
 ---
 
